@@ -1,0 +1,13 @@
+/.github/**    @figment-networks/ops
+**/Dockerfile  @figment-networks/ops
+**/MANIFESTS   @figment-networks/ops
+**/TARGETS     @figment-networks/ops
+**/VARIANTS    @figment-networks/ops
+/.vscode/**    @figment-networks/ops
+**.flake8      @figment-networks/ops
+**.gitignore   @figment-networks/ops
+**.yamllint    @figment-networks/ops
+**.json        @figment-networks/ops
+**.md          @figment-networks/ops
+**.sh          @figment-networks/ops
+**.yaml        @figment-networks/ops
